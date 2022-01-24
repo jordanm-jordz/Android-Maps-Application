@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "780941420368",
+    "firebase_url": "https://horizon-maps-c27bd-default-rtdb.firebaseio.com",
+    "project_id": "horizon-maps-c27bd",
+    "storage_bucket": "horizon-maps-c27bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780941420368:android:c54560d8526002f3276e55",
+        "android_client_info": {
+          "package_name": "com.example.horizonmaps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "780941420368-2cpnk2krfs4g5mrs4tco2htgfpfh84ag.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZ2tqa0urwUUsXJ7ci3GTfxTVx5gS1VSk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "780941420368-2cpnk2krfs4g5mrs4tco2htgfpfh84ag.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

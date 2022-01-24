@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HorizonMaps</string>
+    <string name="access_token" translatable="false">pk.eyJ1IjoiaXNobWFlbG05OCIsImEiOiJja3FmaDV0NzUweDB1MnVwZW5xaXNvbWZ4In0.KB-qfTjS3XSPH0s-6tK6vQ</string>
+
+</resources>
